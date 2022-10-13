@@ -12,7 +12,7 @@ export default {
             return (
                 <label className="flex items-center gap-2">
                     {Story()}
-                    <Text size="sm" content="Lembrar-se de mim por 30 dias" />
+                    <Text size="sm">Lembrar-se de mim por 30 dias</Text>
                 </label>
             )
         }
